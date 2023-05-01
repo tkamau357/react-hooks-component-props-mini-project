@@ -12,6 +12,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: var(--bg);
   color: var(--text);
+  padding: 70px;
+
 }
 
 h1,
